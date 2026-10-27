@@ -1,0 +1,66 @@
+[
+  {
+    "width": 360,
+    "overflow": false,
+    "broken": [],
+    "font": true,
+    "h1": 1,
+    "menuOpen": true,
+    "escapeCloses": true,
+    "topic": true,
+    "faq": true,
+    "errors": []
+  },
+  {
+    "width": 390,
+    "overflow": false,
+    "broken": [],
+    "font": true,
+    "h1": 1,
+    "menuOpen": true,
+    "escapeCloses": true,
+    "topic": true,
+    "faq": true,
+    "errors": []
+  },
+  {
+    "width": 768,
+    "overflow": false,
+    "broken": [],
+    "font": true,
+    "h1": 1,
+    "topic": true,
+    "faq": true,
+    "errors": []
+  },
+  {
+    "width": 1024,
+    "overflow": false,
+    "broken": [],
+    "font": true,
+    "h1": 1,
+    "topic": true,
+    "faq": true,
+    "errors": []
+  },
+  {
+    "width": 1366,
+    "overflow": false,
+    "broken": [],
+    "font": true,
+    "h1": 1,
+    "topic": true,
+    "faq": true,
+    "errors": []
+  },
+  {
+    "width": 1920,
+    "overflow": false,
+    "broken": [],
+    "font": true,
+    "h1": 1,
+    "topic": true,
+    "faq": true,
+    "errors": []
+  }
+]

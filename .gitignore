@@ -1,0 +1,5 @@
+.agents/
+.taste-skill/inspect/
+.sites-runtime/
+node_modules/
+*.zip

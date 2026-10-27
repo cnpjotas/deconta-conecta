@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://deconta-conecta-2026.prettyvenus1026.chatgpt.site/sitemap.xml
