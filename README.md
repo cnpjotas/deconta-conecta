@@ -4,9 +4,9 @@ Landing page estática. Os arquivos publicados estão em `dist/`.
 
 ## Visualizar
 ```sh
-npm run dev
+pnpm dev
 ```
-Abra http://127.0.0.1:4173.
+Abra http://127.0.0.1:4173. Para usar outra porta, por exemplo 3000, execute `pnpm dev -- --port 3000`.
 
 ## Editar
 - Conteúdo e links: `dist/index.html`.
